@@ -1,9 +1,7 @@
 # don't ignore .3dm and .gh files in the "template" directory
-!template/
+!template\
 
 # ignore all .3dm and .gh files
 *.3dm
 *.gh
-
-
 
