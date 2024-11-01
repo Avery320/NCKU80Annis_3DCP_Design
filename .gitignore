@@ -1,10 +1,9 @@
 # ignore all .3dm and .gh files
 *.3dm
 *.gh
-template/*
 
 # don't ignore .3dm and .gh files in the "template" directory
-# !template/*
+!template/*
 
 
 # ignore material.md    
