@@ -1,4 +1,4 @@
-# NCKUArchi80Annis_3DCP_ColumnDesign
+# NCKUArch_80Annis_3DCP_ColumnDesign
 
 - Designer：陳稷和｜梁庭嘉｜鄭又碩
 - TA：沈實｜蔡承恩
