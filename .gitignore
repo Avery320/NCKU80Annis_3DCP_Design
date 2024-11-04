@@ -3,7 +3,7 @@
 *.gh
 
 # ignore persnal files
-persanl/*
+personl_file/
 
 # don't ignore .3dm and .gh files in the "template" directory
 !template/*
@@ -11,4 +11,3 @@ persanl/*
 
 # ignore material.md    
 material.md
-
